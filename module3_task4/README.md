@@ -20,5 +20,5 @@
 ## Workflow
 
     The workflow is executed into Ubuntu 18.04 environment
-    Required tools are installed prior to any make target
+    Required tools are installed prior to any make target 
     by executing the script setup.sh
